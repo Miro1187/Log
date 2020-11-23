@@ -1,0 +1,14 @@
+E:\source\Log\DbAccess\bin\Debug\netcoreapp2.2\DbAccess.deps.json
+E:\source\Log\DbAccess\bin\Debug\netcoreapp2.2\DbAccess.dll
+E:\source\Log\DbAccess\bin\Debug\netcoreapp2.2\DbAccess.pdb
+E:\source\Log\DbAccess\bin\Debug\netcoreapp2.2\Common.dll
+E:\source\Log\DbAccess\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+E:\source\Log\DbAccess\bin\Debug\netcoreapp2.2\Common.pdb
+E:\source\Log\DbAccess\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+E:\source\Log\DbAccess\obj\Debug\netcoreapp2.2\DbAccess.csprojAssemblyReference.cache
+E:\source\Log\DbAccess\obj\Debug\netcoreapp2.2\DbAccess.csproj.CoreCompileInputs.cache
+E:\source\Log\DbAccess\obj\Debug\netcoreapp2.2\DbAccess.AssemblyInfoInputs.cache
+E:\source\Log\DbAccess\obj\Debug\netcoreapp2.2\DbAccess.AssemblyInfo.cs
+E:\source\Log\DbAccess\obj\Debug\netcoreapp2.2\DbAccess.csproj.CopyComplete
+E:\source\Log\DbAccess\obj\Debug\netcoreapp2.2\DbAccess.dll
+E:\source\Log\DbAccess\obj\Debug\netcoreapp2.2\DbAccess.pdb
